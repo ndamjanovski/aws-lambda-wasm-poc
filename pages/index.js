@@ -43,7 +43,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by AWS Lambda
+          Powered by AWS Lambda!
         </a>
       </footer>
     </div>
